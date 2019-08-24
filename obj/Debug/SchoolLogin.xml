@@ -1,0 +1,240 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SchoolLogin
+</name>
+</assembly>
+<members>
+<member name="T:SchoolLogin.Database1DataSet.TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSet.TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSet.TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSetTableAdapters.TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SchoolLogin.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SchoolLogin.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SchoolLogin.Database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.UpdateAll(SchoolLogin.Database1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SchoolLogin.Database1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSet.studentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSet.studentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSet.studentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSetTableAdapters.studentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SchoolLogin.StudentsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SchoolLogin.StudentsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SchoolLogin.StudentsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.UpdateAll(SchoolLogin.StudentsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SchoolLogin.StudentsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources._1028582">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources._11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources._3T4Mea_register_here_button_clipart_png_photos">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources._41075560_stock_vector_vector_logo_open_book_and_globe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources._88_887189_junk_food_clipart_burger_burger_bbq_clipart_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources._88_887189_junk_food_clipart_burger_burger_bbq_clipart_png1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.c5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.c51">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.c52">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.dan_gribbin_50368_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.food_network_logo_design">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.HardRockHotelSG_Exterior">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.img__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.img4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.Login_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.login_system_icon_13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.login_system_icon_131">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.login_system_icon_132">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.mitchell_lawler_73467_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.myuser2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.myuser21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.robson_hatsukami_morgan_134756_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.romantic_food_logo_icon_design_vector_22767204">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.sreekanth_s_543965_unsplash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.student_happy_with_exam_results_clipart_543">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.userPc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolLogin.My.Resources.Resources.userPc1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SchoolLogin.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
